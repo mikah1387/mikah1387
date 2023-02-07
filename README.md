@@ -15,16 +15,9 @@ figma
 *  framework: symfony 6,
 *  PhpMyadmin,
 *  MVC design patterns
+<p><img src="images/sass.png" alt="sass" width="40" height="40"><img src="images/bootstrap.png" alt="bootstrap"  width="40" height="40"><img src="images/js.png" alt="js"width="40" height="40" ><img src="images/physics.png" alt="react"width="40" height="40"><img src="images/php.png" alt="php"width="40" height="40"><img src="images/sql-server.png" alt="SQL"width="40" height="40"><img src="images/figma.png" alt=""width="40" height="40"></p>
 
+## current activities
 
-<p>
-    <img src="images/sass.png" alt="sass">
-    <img src="images/bootstrap.png" alt="">
-    <img src="images/js.png" alt="">
-    <img src="images/physics.png" alt="">
-    <img src="images/php.png" alt="">
-    <img src="images/sass.png" alt="">
-    <img src="images/figma.png" alt="">
-
-</p>
-
+* I am currently working on an e commerce width symfony project.
+* learning three.js and react.js
