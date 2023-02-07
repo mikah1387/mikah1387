@@ -17,3 +17,14 @@ figma
 *  MVC design patterns
 
 
+<p>
+    <img src="images/sass.png" alt="sass">
+    <img src="images/bootstrap.png" alt="">
+    <img src="images/js.png" alt="">
+    <img src="images/physics.png" alt="">
+    <img src="images/php.png" alt="">
+    <img src="images/sass.png" alt="">
+    <img src="images/figma.png" alt="">
+
+</p>
+
